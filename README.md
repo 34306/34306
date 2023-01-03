@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Huy Nguyen aka Little34306 (@34306)
-- 👀 I’m interested in making game cheats!
+- 👀 I’m interested in making game cheats and some stuffs!
 - 🌱 I’m currently learning C/C++/Swift.
 
 <!---

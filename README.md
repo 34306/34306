@@ -20,5 +20,5 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://github.com/34306/iPA/blob/main/img/nyan-cat-nyan.gif?raw=true');
+background: url('https://github.com/34306/iPA/blob/main/100gf.jpg?raw=true');
 "]{}

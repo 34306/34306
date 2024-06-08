@@ -20,5 +20,5 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://github.com/34306/iPA/blob/main/5t.png?raw=true');
+background: url('https://github.com/34306/iPA/blob/main/100gf.jpg?raw=true');
 "]{}

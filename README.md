@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Huy Nguyen (Little_34306) (@34306).
-- 📖 I'm studying Electronics and Telecommunications (Advanced Program) at Hanoi University of Science and Technology (HUST).
+- 📖 I'm already finished BSc in Electronics and Telecommunications (Advanced Program) at Hanoi University of Science and Technology (HUST), now go for MSc.
 - 👀 I’m interested in Reverse Engineer and/or stuff related to iOS/iPadOS/macOS!
 - 🌱 I’m currently learning C/C++/Objective-C/Swift.
 - 🗣️ Not a real developer, I'm just copycat things from Internet and make it 'works on my machine'.

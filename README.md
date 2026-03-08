@@ -1,6 +1,7 @@
 - I’m Huy Nguyen (Little_34306) (@34306).
-- Finished BSc in Electronics and Telecommunications at Hanoi University of Science and Technology, now go for MSc.
+- Finished BSc in Electronics and Telecommunications at Hanoi University of Science and Technology.
 - Interested in Rev and/or stuff related to iOS/iPadOS/macOS!
+- Currently working at Calif.io
 - Know C/C++/Objective-C/Swift. Learning Python for now.
 - Copycat things from Internet and make it 'works on my machine'.
 

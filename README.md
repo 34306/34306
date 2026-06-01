@@ -1,9 +1,4 @@
-- I’m Huy Nguyen (Little_34306) (@34306).
-- Finished BSc in Electronics and Telecommunications at Hanoi University of Science and Technology.
-- Interested in Rev and/or stuff related to iOS/iPadOS/macOS!
-- Currently working at Calif.io
-- Know C/C++/Objective-C/Swift. Learning Python for now.
-- Copycat things from Internet and make it 'works on my machine'.
+i copied stuff and still learning stuff
 
 [![My Github stats](https://github-readme-stats-fast.vercel.app/api?username=34306&show_icons=true&hide=contribs,prs,issues&theme=radical)](https://github.com/34306/github-readme-stats)
 <!---
